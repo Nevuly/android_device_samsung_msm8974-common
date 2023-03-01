@@ -183,10 +183,6 @@ PRODUCT_PACKAGES += \
     timekeep \
     TimeKeep
 
-# Touch features
-PRODUCT_PACKAGES += \
-    vendor.lineage.touch@1.0-service.samsung
-
 # Trust HAL
 PRODUCT_PACKAGES += \
     vendor.lineage.trust@1.0-service
